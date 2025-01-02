@@ -19,7 +19,8 @@ numpy
 matplotlib
 scikit-learn
 You can install the required libraries using pip:
-```python pip install torch pandas numpy matplotlib scikit-learn
+```bash
+pip install torch pandas numpy matplotlib scikit-learn
 
 ## Code Walkthrough
 ### 1. Data Preprocessing
